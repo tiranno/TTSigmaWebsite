@@ -1,0 +1,63 @@
+html, body {
+  background-color: #ebebeb;
+  width: auto;
+  margin: 0px;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 0.87); }
+
+a {
+  color: inherit;
+  text-decoration: none; }
+
+header {
+  background-color: maroon;
+  height: 32%;
+  min-height: 50px; }
+
+section {
+  max-width: 970px; }
+
+footer {
+  background-color: gold; }
+
+nav ul {
+  list-style: none; }
+  nav ul li {
+    display: inline;
+    padding: 0px 10px; }
+
+#body-container header, #body-container section, #body-container footer {
+  margin: auto;
+  width: 100%; }
+
+#body-container {
+  display: flex;
+  flex-direction: column; }
+
+.divider {
+  background-color: rgba(0, 0, 0, 0.12);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 1px; }
+
+.member-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center; }
+  .member-container h2 {
+    width: 100%; }
+  .member-container .member {
+    background-color: gray;
+    width: 180px;
+    margin: 5px; }
+    .member-container .member .title {
+      height: 40px;
+      margin: 0px;
+      padding: 0px 10px;
+      font-size: 16px; }
+    .member-container .member img {
+      width: 100%; }
+    .member-container .member .description {
+      padding: 0px 10px; }
+
+/*# sourceMappingURL=main.css.map */
