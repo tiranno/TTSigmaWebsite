@@ -16,7 +16,7 @@ How?
 - Making our site usable by all people, from any device (responsive web design)
 
 ## Technologies
-- PHP Server (on OSUs domain)
+- Apache PHP Server (run on OSUs domain)
 - AngularJS
 - SCSS
 - HTML
