@@ -1,13 +1,19 @@
-# tt-sigma-website
+# TT Sigma Website
 New website for Sigma chapter of Theta Tau to replace the current transition website.
 
-##What?
-- New website for Sigma of Theta Tau that has timeless, is useful, and can be easily updated.
-##Who?
-- Brothers of the fraternity (including alumni)
+# Mission
+## What?
+- New website for Sigma of Theta Tau that has timeless design, is useful, and can be easily updated.
+## Who?
+- Active brothers 
+- Alumni
 - Prospective members
-- Those who want to get involved
-##How?
+## How?
 - Clearly stating our purpose and goals
-- Making our site usable by all people, from any device
-- 
+- Making our site usable by all people, from any device (responsive web design)
+
+# Technologies
+- PHP Server (on OSUs domain)
+- AngularJS
+- SCSS
+- HTML
